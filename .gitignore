@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Données locales lourdes
+data/tourism.duckdb
+data/raw/*.tsv
+
+# Environnement virtuel & Caches Python
+.venv/
+__pycache__/
+
+# Windows & VS Code
+Thumbs.db
+.vscode/
